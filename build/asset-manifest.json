@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AriCampos18/CorrecaoLP2.git/static/css/main.49faa5e3.css",
+    "main.js": "/AriCampos18/CorrecaoLP2.git/static/js/main.136b1ac6.js",
+    "static/media/pagina404.png": "/AriCampos18/CorrecaoLP2.git/static/media/pagina404.4bf0805d8d55a31c5142.png",
+    "index.html": "/AriCampos18/CorrecaoLP2.git/index.html",
+    "main.49faa5e3.css.map": "/AriCampos18/CorrecaoLP2.git/static/css/main.49faa5e3.css.map",
+    "main.136b1ac6.js.map": "/AriCampos18/CorrecaoLP2.git/static/js/main.136b1ac6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49faa5e3.css",
+    "static/js/main.136b1ac6.js"
+  ]
+}
